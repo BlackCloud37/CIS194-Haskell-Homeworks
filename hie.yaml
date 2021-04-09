@@ -1,0 +1,9 @@
+cradle:
+  multi:
+    - path: "./"
+      config:
+        cradle:
+          stack:
+            - path: "./app/Main.hs"
+            - path: "./src/Week1.hs"
+            - path: "./src/Libs.hs"
