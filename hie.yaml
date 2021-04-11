@@ -7,3 +7,5 @@ cradle:
             - path: "./app/Main.hs"
             - path: "./src/Week1.hs"
             - path: "./src/Libs.hs"
+            - path: "./src/Week2/Week2.hs"
+            - path: "./src/Week2/Log.hs"
