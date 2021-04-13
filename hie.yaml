@@ -10,3 +10,4 @@ cradle:
             - path: "./src/Week2/Week2.hs"
             - path: "./src/Week2/Log.hs"
             - path: "./src/Golf.hs"
+            - path: "./src/Week4.hs"

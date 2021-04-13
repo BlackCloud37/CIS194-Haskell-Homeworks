@@ -4,7 +4,7 @@ cabal-version: 1.12
 --
 -- see: https://github.com/sol/hpack
 --
--- hash: 74b56d5fbb9a72d5fc04a69da4b062fbf5767b55742bb010f97c9d93ad7a7418
+-- hash: fd5d40c3c07ce65b40a40826fea79427ec0cc2bea52df2a3db11319c1b3cd571
 
 name:           learn-haskell
 version:        0.1.0.0
@@ -32,6 +32,7 @@ library
       Week1
       Week2.Log
       Week2.Week2
+      Week4
   other-modules:
       Paths_learn_haskell
   hs-source-dirs:
