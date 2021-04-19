@@ -9,7 +9,10 @@ The slides of CIS194 was translated by me at [my blog](https://blackcloud37.tech
 **Finished chapters**
 
 * [Week1](https://blackcloud37.tech/posts/fb3ef408/)
-
+* [Week2](https://blackcloud37.tech/posts/786f7a8f/)
+* [Week3](https://blackcloud37.tech/posts/5f294974/)
+* [Week4](https://blackcloud37.tech/posts/a3f48c69/)
+* [Week5](https://blackcloud37.tech/posts/db537e15/)
 ### How to use
 
 The whole project was created by [Haskell Stack](https://docs.haskellstack.org/en/stable/README/), so you should install haskell stack first.
