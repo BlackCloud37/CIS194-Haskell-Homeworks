@@ -11,3 +11,7 @@ cradle:
             - path: "./src/Week2/Log.hs"
             - path: "./src/Golf.hs"
             - path: "./src/Week4.hs"
+            - path: "./src/Week5/ExprT.hs"
+            - path: "./src/Week5/Parser.hs"
+            - path: "./src/Week5/StackVM.hs"
+            - path: "./src/Week5/Calc.hs"
